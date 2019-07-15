@@ -1,9 +1,9 @@
 #!/bin/bash
 # Compute SRE Tools - Ticket Templates
 # Created by Analicia - Version 2.0
-# ckhost.sh written by Javier Dominguez
+
 clear
-	findsig=`find .sretools/ticket_sig 2> /dev/null`
+	findsig=`find .ticket_sig 2> /dev/null`
 	if [ "$findsig" = "" ]; then
 	    echo "You don't have a signature setup."
 		echo -e "Please enter your name: \c"
@@ -12,7 +12,7 @@ clear
 		read title
 		echo "Thank you for choosing IBM Cloud,
 $name
-Compute SRE | $title" > ".sretools/ticket_sig"
+Compute SRE | $title" > ".ticket_sig"
 		fi
 while true
 do
@@ -67,7 +67,7 @@ I'm opening this ticket to inform you of an emergency maintenance we had to perf
 
 Please let us know if you need anything else. Or if there is a new issue please open a new support ticket.
 "
-cat .sretools/ticket_sig
+cat .ticket_sig
 			echo "=================================================================================" ;;
 #************************************************************************************************************************
 #************************************************************************************************************************
@@ -102,7 +102,7 @@ https://console.bluemix.net/docs/infrastructure/hardware-firewall-dedicated/ips.
 
 Your new VSI will need to have access to our Service Network through any hardware or software firewalls including a ping check on each interface.
 "
-cat .sretools/ticket_sig
+cat .ticket_sig
 			echo "=================================================================================" ;;
 #************************************************************************************************************************
 #************************************************************************************************************************
