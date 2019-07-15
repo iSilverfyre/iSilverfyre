@@ -5,4 +5,4 @@ This folder contains exercises from 'Learn Python 3 the Hard Way: A Very Simple 
 This folder contains exercises from 'The Complete Web Developer Course 2.0' by Rob Percival.
 
 # Work Tools
-This folder contains code that I wrote while working for IBM Cloud.  Not all of this code will work as is due to requiring internal tools and scripting that can not be hosted in public domain.
+This folder contains code that I wrote while working for IBM Cloud.  Not all of this code will work as is due to requiring internal tools and scripting that can not be hosted in public domain.  Additional explination of code in the folder.
