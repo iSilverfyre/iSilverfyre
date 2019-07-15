@@ -4,6 +4,7 @@
 clear
 if [ "$1" = "" ]; then
     echo "You didn't specify a hostname, try again."
+    echo "Use the following to properly execute script: sh host_tools.sh hostname"
 	exit
 fi
 
@@ -27,6 +28,7 @@ do
 	echo "Password is $pass"
 	echo "=========================== HOST INFORMATION ==========================="
 	echo -e
+	
 	echo "==========================================="
 	echo "Host Tools"
 	echo "==========================================="
@@ -37,8 +39,7 @@ do
 	echo "5 - Syncpower and Diagnostics"
 	echo "6 - Enable KVM"
 	echo "7 - Disable KVM"
-	echo "8 - Checked Freshly Reloaded Host"
-	echo "9 - Exit to Main Menu"
+	echo "8 - Exit to Main Menu"
 	echo -e
 	echo -e "Enter your selection: \c" 
 	read answer
@@ -73,9 +74,7 @@ do
 
 		7)	slipmi dkvm -H $1 ;;
 
-		8)	ssh root@$ip < ./Tools/ckhost.sh |less ;;
-
-		9)	exit ;;
+		8)	exit ;;
 	esac 
 	echo "Press enter to continue."
 	read input
