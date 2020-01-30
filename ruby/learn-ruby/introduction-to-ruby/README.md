@@ -1,8 +1,9 @@
-#Introduction to Ruby
-
+# Introduction to Ruby
 Exercises are from Codeacademy's Learn Ruby Course
 
-2 - Data Types: Numbers, Strings, Booleans (ex2.rb)
+## Data Types: Numbers, Strings, Booleans (ex2.rb)
 Setting variables using numbers, strings and boolean values
-3 - Variables (ex3.rb)
-4 - Math (ex4.rb)
+
+## Variables (ex3.rb)
+
+## Math (ex4.rb)
