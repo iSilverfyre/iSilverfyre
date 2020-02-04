@@ -26,3 +26,6 @@ Sets the string to UPPER or lower case depending on method called to the given s
 
 ## 10 - Single-Line Comments (ex08.rb)
 Adding '#' followed by text makes a comment.  Add the useful reminder information here.
+
+## 11 - Multi-Line Comments (ex09.rb)
+Adding =begin and =end at the start and end of a comment block allows you to type multiple lines of comments without needing to add # at the start of each line
