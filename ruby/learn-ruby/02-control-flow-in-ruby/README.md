@@ -5,13 +5,16 @@ Below is more or less notes to myself for each of the lessons in this chapter.  
 ### 3 - Else (ex02.rb)
 ### 4 - Elsif (ex03.rb)
 ### 5 - Unless (ex04.rb)
-### 6 - Equal or Not? (ex02.rb)
-### 7 - Less Than or Greater Than (ex02.rb)
-### 8 - Practice Makes Perfect (ex02.rb)
-### 9 - And (ex02.rb)
-### 10 - Or (ex02.rb)
-### 11 - Not (ex02.rb)
-### 12 - Combining Boolean Operators (ex02.rb)
+### 6 - Equal or Not? (ex05.rb)
+### 7 - Less Than or Greater Than (ex05.rb)
+### 8 - Practice Makes Perfect (ex05.rb)
+### 9 - And (ex05.rb)
+&& = and
+### 10 - Or (ex05.rb)
+|| = or
+### 11 - Not (ex05.rb)
+! = not
+### 12 - Combining Boolean Operators (ex05.rb)
 ### 13 - Nice Work! (ex02.rb)
 ### 14 - If, Else, Elsif (ex02.rb)
 ### 15 - Unless (ex02.rb)
