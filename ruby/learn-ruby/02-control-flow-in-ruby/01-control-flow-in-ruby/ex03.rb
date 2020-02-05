@@ -9,5 +9,5 @@ if num_x > num_y
 elsif num_x < num_y
   puts "#{num_x} is less than #{num_y}!"
 else
-  puts "#{num_x} equals #{num_y}"
+  puts "#{num_x} equals #{num_y}!"
 end
