@@ -1,6 +1,6 @@
 # Learn Ruby
-Lessons are from Codeacademy's Learn Ruby Course
+Chapters are from Codeacademy's Learn Ruby Course
 
-## Lesson 1 - Introduction to Ruby
+## Chapter 1 - Introduction to Ruby
 
-## Lesson 2 - Control Flow in Ruby
+## Chapter 2 - Control Flow in Ruby
