@@ -29,3 +29,18 @@ Adding '#' followed by text makes a comment.  Add the useful reminder informatio
 
 ## 11 - Multi-Line Comments (ex09.rb)
 Adding =begin and =end at the start and end of a comment block allows you to type multiple lines of comments without needing to add # at the start of each line
+
+## 12 - Naming Conventions (ex10.rb)
+Proper naming conventions for ruby, symbols like '$' or '@' should be avoided.
+
+## 13 - Variables & Data Types (ex11.rb)
+Review of declaring variables and their values.  '"''s are needed around strings but not integers.
+
+## 14 - Math (ex12.rb)
+Review of math equations
+
+## 15 - Strings and String Methods (ex13.rb)
+Review of strings and the methods in which they can be motified.
+
+## 16 - Comments (ex14.rb)
+Review of single line and multi line comments
