@@ -34,6 +34,3 @@ Review of single line and multi line comments
 
 ## Putting the Form in Formatter
 Now that you know a little bit of Ruby, let’s put together your first project! In this one, we’ll write a small program that will format a user’s input.
-
-Below is more or less notes to myself for each of the lessons in this section.  Some lessons do not have exercises or are not listed here because there was no practice work done in the lesson.
-
