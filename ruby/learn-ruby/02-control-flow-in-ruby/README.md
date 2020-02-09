@@ -15,7 +15,6 @@ Below is more or less notes to myself for each of the lessons in this chapter.  
 ### 11 - Not (ex05.rb)
 ! = not
 ### 12 - Combining Boolean Operators (ex05.rb)
-### 13 - Nice Work! (ex02.rb)
 ### 14 - If, Else, Elsif (ex02.rb)
 ### 15 - Unless (ex02.rb)
 ### 16 - Dare to Compare (ex02.rb)
