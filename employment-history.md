@@ -52,7 +52,7 @@
 
 
 
-## Home Depot
+## Home Depot ~ February 2013 to July 2014
 
 **Location:** Lewisville, TX
 
