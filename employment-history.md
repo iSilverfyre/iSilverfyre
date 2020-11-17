@@ -67,8 +67,11 @@
 
 
 ## Teacher’s Tools ~ July 2010 to January 2013
+
 **Location:** Lewisville, TX
+
 **Title:** Sales Associate
+
 **Position Details**
 - Key-holder
 - Assisted customer with purchases • Manage stock on shelves
