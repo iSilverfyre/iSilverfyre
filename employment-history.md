@@ -63,3 +63,13 @@
 - Hosted monthly Kids Workshop
 - Maintained area surrounding registers
 - Kept a balanced drawer
+
+
+
+## Teacher’s Tools ~ July 2010 to January 2013
+**Location:** Lewisville, TX
+**Title:** Sales Associate
+**Position Details**
+- Key-holder
+- Assisted customer with purchases • Manage stock on shelves
+- Maintain store cleanliness
