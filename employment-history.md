@@ -74,5 +74,6 @@
 
 **Position Details**
 - Key-holder
-- Assisted customer with purchases • Manage stock on shelves
+- Assisted customer with purchases
+- Manage stock on shelves
 - Maintain store cleanliness
