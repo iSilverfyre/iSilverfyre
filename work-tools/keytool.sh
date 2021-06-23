@@ -34,9 +34,9 @@ echo ""
 echo "Locking Slot 2"
 ./ykman otp --access-code $KEY settings 2
 
-echo ""
-echo "Locking FIDO"
-./ykman fido access change-pin --u2f -n $KEY
+# echo ""
+# echo "Locking FIDO"
+# ./ykman fido access change-pin --u2f -n $KEY
 
 echo ""
 echo "Validating Key"
@@ -47,9 +47,9 @@ echo ""
 echo "OTP Validation"
 ./ykman otp info
 
-echo ""
-echo "FIDO Validation"
-./ykman fido info
+# echo ""
+# echo "FIDO Validation"
+# ./ykman fido info
 
 echo ""
 echo "Saving Validation Logs"
@@ -57,9 +57,9 @@ echo "Saving OTP Log"
 echo "OPT Log" >> ~/Desktop/validaton-verification.txt
 ./ykman otp info >> ~/Desktop/validaton-verification.txt
 
-echo "Saving FIDO Log"
-echo "OPT Log" >> ~/Desktop/validaton-verification.txt
-./ykman fido info; echo "" >>~/Desktop/validaton-verification.txt
+# echo "Saving FIDO Log"
+# echo "OPT Log" >> ~/Desktop/validaton-verification.txt
+# ./ykman fido info; echo "" >>~/Desktop/validaton-verification.txt
 
 echo ""
 echo "Key Complete - Please Remove" $SERIAL
