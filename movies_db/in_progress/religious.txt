@@ -1,0 +1,7 @@
+INSERT INTO `religious` (`title`, `year`) VALUES ("Breakthrough", "2019");
+INSERT INTO `religious` (`title`, `year`) VALUES ("God's Not Dead", "2014");
+INSERT INTO `religious` (`title`, `year`) VALUES ("God's Not Dead 2", "2016");
+INSERT INTO `religious` (`title`, `year`) VALUES ("God's Not Dead A Light in Darkness", "2018");
+INSERT INTO `religious` (`title`, `year`) VALUES ("I Still Believe", "2020");
+INSERT INTO `religious` (`title`, `year`) VALUES ("The Passion of the Christ", "2004");
+INSERT INTO `religious` (`title`, `year`) VALUES ("The Shack", "2017");
