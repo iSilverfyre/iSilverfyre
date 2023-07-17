@@ -4,7 +4,7 @@ import random
 app = Flask(__name__)
 
 # list of cat images
-images = ["http://localhost:8888/usr/src/app/images/IMG_2752.jpeg",
+images = ["/usr/src/app/images/IMG_2752.jpeg",
         "/usr/src/app/images/IMG_4764.jpeg",
         "/usr/src/app/images/IMG_5752.jpeg"]
 
