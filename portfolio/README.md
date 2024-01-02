@@ -8,7 +8,7 @@
 * Exercises from [Learn Git by Doing: A step-by-step guide to version control](https://www.udemy.com/course/learn-git-by-doing-a-step-by-step-guide-to-version-control) from Udemy.
 
 # Minecraft
-* A datapack I made for a server I was on at one point.  Not sure if it will work with current versions of minecraft still.
+* A datapack I made for a server I was on at one point.  This was written for Minecraft version 1.17–1.17.1, this will not likely work with current versions of minecraft without alterations.
 
 # Python
 * Exercises from [Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code](https://www.oreilly.com/library/view/learn-python-3/9780134693866/) by Zed Shaw.
