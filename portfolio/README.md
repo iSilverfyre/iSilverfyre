@@ -1,8 +1,18 @@
-# Python
-This folder contains exercises from 'Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code' by Zed Shaw.  As well it contains some various small code I have written for personal use or for entertainment.
+# Bash
+* Random scripts I have made to do different things.  There should be some sort of notes or comments in the scripts themselves.  They may or may not work correctly depending on how long ago it was written, use with caution.
 
-# Web Dev
-This folder contains exercises from 'The Complete Web Developer Course 2.0' by Rob Percival.
+# Docker
+* toulouse-images was an attempt at creating my own image.  Not secure by todays standards of Docker, do **NOT** use publically.
 
 # Git
-This folder contains exercises from '[Learn Git by Doing: A step-by-step guide to version control](https://www.udemy.com/course/learn-git-by-doing-a-step-by-step-guide-to-version-control)' from Udemy.
+* Exercises from [Learn Git by Doing: A step-by-step guide to version control](https://www.udemy.com/course/learn-git-by-doing-a-step-by-step-guide-to-version-control) from Udemy.
+
+# Minecraft
+* A datapack I made for a server I was on at one point.  Not sure if it will work with current versions of minecraft still.
+
+# Python
+* Exercises from [Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code](https://www.oreilly.com/library/view/learn-python-3/9780134693866/) by Zed Shaw.
+* Various small code I have written for personal use or for entertainment.
+
+# Web Dev
+* Exercises from [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) by Rob Percival from Udemy.
