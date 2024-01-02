@@ -1,4 +1,3 @@
-
 """
 This program generates a story based off the word provided.  Similar to the popular MadLibs
 Author: Analicia 
