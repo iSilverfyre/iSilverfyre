@@ -1,6 +1,8 @@
 #!/bin/bash
 # Created by Analicia Abernathy - 2023
-# Version 1.o
+# Version 1.0
+
+# Designed to download all the current Paper MC minecraft versions to a local folder
 
 clear
 
