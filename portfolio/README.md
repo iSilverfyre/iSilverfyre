@@ -12,7 +12,7 @@
 
 # Python
 * Exercises from [Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code](https://www.oreilly.com/library/view/learn-python-3/9780134693866/) by Zed Shaw.
-* Various small code I have written for personal use or for entertainment.
+* Various bits of code I have written for personal use or for entertainment.
 
 # Web Dev
 * Exercises from [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) by Rob Percival from Udemy.
