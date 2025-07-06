@@ -11,8 +11,12 @@
 * A datapack I made for a server I was on at one point.  This was written for Minecraft version 1.17–1.17.1, this will not likely work with current versions of minecraft without alterations.
 
 # Python
-* Exercises from [Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code](https://www.oreilly.com/library/view/learn-python-3/9780134693866/) by Zed Shaw.
-* Various bits of code I have written for personal use or for entertainment.
+* Learning Python the Hard Way
+	* Exercises from [Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code](https://www.oreilly.com/library/view/learn-python-3/9780134693866/) by Zed Shaw.
+* flaskr
+	* Flask tutorial to create a basic blog application [source](https://flask.palletsprojects.com/en/stable/tutorial/)
+* eggs_calc.py and madlibs.py
+	* Various bits of code I have written for personal use or for entertainment.
 
 # Web Dev
 * Exercises from [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) by Rob Percival from Udemy.
